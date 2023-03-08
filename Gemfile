@@ -7,7 +7,7 @@ gem "rails", "~> 7.0.4", ">= 7.0.4.2"
 
 gem "sprockets-rails"
 
-
+gem "devise"
 
 gem "puma", "~> 5.0"
 
